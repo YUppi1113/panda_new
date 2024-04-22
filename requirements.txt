@@ -2,7 +2,6 @@ selenium
 retry
 bs4
 requests
-json
 datetime
 emoji
 gunicorn
