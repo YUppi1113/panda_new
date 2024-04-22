@@ -1,0 +1,5 @@
+selenium
+retry
+selenium.webdriver.common.by
+bs4
+requests
